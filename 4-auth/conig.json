@@ -1,0 +1,11 @@
+{
+  "GCLOUD_PROJECT": "node-bookshelf-project",
+  "DATA_BACKEND": "mongodb",
+  "MONGO_URL": "mongodb://byoung:Teton1414@ds123182.mlab.com:23182/node-bookshelf-project",
+  "MONGO_COLLECTION": "books",
+  "CLOUD_BUCKET": "barts-bookshelf-bucket",
+  "OAUTH2_CLIENT_ID": "980950350142-d4u8aopb31qk5cf31jnp9c715oenigna.apps.googleusercontent.com",
+  "OAUTH2_CLIENT_SECRET": "gwjqw8f03u-kMy1rBkoweh6w",
+  "OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback",
+  "MEMCACHE_URL": "memcached-10441.c11.us-east-1-3.ec2.cloud.redislabs.com:10441"
+}
